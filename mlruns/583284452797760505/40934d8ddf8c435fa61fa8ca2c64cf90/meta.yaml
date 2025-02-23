@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Govinda%20sah/MLOPs/MLOPS_Breast_cancer_Projects/mlruns/583284452797760505/40934d8ddf8c435fa61fa8ca2c64cf90/artifacts
+end_time: 1740330320142
+entry_point_name: ''
+experiment_id: '583284452797760505'
+lifecycle_stage: active
+run_id: 40934d8ddf8c435fa61fa8ca2c64cf90
+run_name: puzzled-stork-187
+run_uuid: 40934d8ddf8c435fa61fa8ca2c64cf90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740330319874
+status: 3
+tags: []
+user_id: Govinda sah

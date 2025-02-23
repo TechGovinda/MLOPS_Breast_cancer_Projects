@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Govinda%20sah/MLOPs/MLOPS_Breast_cancer_Projects/mlruns/583284452797760505/2e47d23c3b6c4ea08a7a34ef2083d4f2/artifacts
+end_time: 1740330320908
+entry_point_name: ''
+experiment_id: '583284452797760505'
+lifecycle_stage: active
+run_id: 2e47d23c3b6c4ea08a7a34ef2083d4f2
+run_name: sassy-fox-691
+run_uuid: 2e47d23c3b6c4ea08a7a34ef2083d4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740330320861
+status: 3
+tags: []
+user_id: Govinda sah

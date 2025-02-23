@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Govinda%20sah/MLOPs/MLOPS_Breast_cancer_Projects/mlruns/583284452797760505/e186bc4c9b0b48d1b0d34241ec2295a3/artifacts
+end_time: 1740330320643
+entry_point_name: ''
+experiment_id: '583284452797760505'
+lifecycle_stage: active
+run_id: e186bc4c9b0b48d1b0d34241ec2295a3
+run_name: orderly-dolphin-171
+run_uuid: e186bc4c9b0b48d1b0d34241ec2295a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740330320424
+status: 3
+tags: []
+user_id: Govinda sah

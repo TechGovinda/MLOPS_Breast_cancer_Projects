@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Govinda%20sah/MLOPs/MLOPS_Breast_cancer_Projects/mlruns/583284452797760505/aae6a48dae6f45daab44fac974faab10/artifacts
+end_time: 1740330320420
+entry_point_name: ''
+experiment_id: '583284452797760505'
+lifecycle_stage: active
+run_id: aae6a48dae6f45daab44fac974faab10
+run_name: judicious-shrimp-504
+run_uuid: aae6a48dae6f45daab44fac974faab10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740330320146
+status: 3
+tags: []
+user_id: Govinda sah

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Govinda%20sah/MLOPs/MLOPS_Breast_cancer_Projects/mlruns/583284452797760505
+creation_time: 1740330313912
+experiment_id: '583284452797760505'
+last_update_time: 1740330313912
+lifecycle_stage: active
+name: breast-cancer-rf-hp
